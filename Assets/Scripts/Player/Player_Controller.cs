@@ -14,6 +14,7 @@ public class Player_Controller : MonoBehaviour
     public LayerMask groundLayer;           // Layermask for identifying ground objects
 
     //public CapsuleCollider2D cc;
+    //Comments
 
     private Rigidbody2D rb;
     private bool isGrounded;
